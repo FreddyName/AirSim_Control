@@ -1,0 +1,128 @@
+----------------------8-----------------------------------
+8Window Handle: 
+Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB
+Window's Process Name: gnome-terminal-server
+Key Pressed: P_Up
+Ascii Value: 0
+KeyID: False
+ScanCode: 80
+MessageName: key down
+----------------------2-----------------------------------
+2Window Handle: 
+Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB
+Window's Process Name: gnome-terminal-server
+Key Pressed: P_Down
+Ascii Value: 0
+KeyID: False
+ScanCode: 88
+MessageName: key down
+----------------------4-----------------------------------
+4Window Handle: 
+Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB
+Window's Process Name: gnome-terminal-server
+Key Pressed: P_Left
+Ascii Value: 0
+KeyID: False
+ScanCode: 83
+MessageName: key down
+----------------------6-----------------------------------
+6Window Handle: 
+Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB
+Window's Process Name: gnome-terminal-server
+Key Pressed: P_Right
+Ascii Value: 0
+KeyID: False
+ScanCode: 85
+MessageName: key down
+----------------------7-----------------------------------
+Window Handle: 
+Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB
+Window's Process Name: gnome-terminal-server
+Key Pressed: P_Home
+Ascii Value: 0
+KeyID: False
+ScanCode: 79
+MessageName: key down
+----------------------9-----------------------------------
+9Window Handle: 
+Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB
+Window's Process Name: gnome-terminal-server
+Key Pressed: P_Page_Up
+Ascii Value: 0
+KeyID: False
+ScanCode: 81
+MessageName: key down
+----------------------1-----------------------------------
+1Window Handle: 
+Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB
+Window's Process Name: gnome-terminal-server
+Key Pressed: P_End
+Ascii Value: 0
+KeyID: False
+ScanCode: 87
+MessageName: key down
+----------------------3-----------------------------------
+3Window Handle: 
+Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB
+Window's Process Name: gnome-terminal-server
+Key Pressed: P_Next
+Ascii Value: 0
+KeyID: False
+ScanCode: 89
+MessageName: key down
+----------------------q-----------------------------------
+qWindow Handle: 
+Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB
+Window's Process Name: gnome-terminal-server
+Key Pressed: q
+Ascii Value: 113
+KeyID: False
+ScanCode: 24
+MessageName: key down
+----------------------(-)-----------------------------------
+Window Handle: 
+Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB
+Window's Process Name: gnome-terminal-server
+Key Pressed: P_Subtract
+Ascii Value: 0
+KeyID: False
+ScanCode: 82
+MessageName: key down
+----------------------(+)-----------------------------------
++Window Handle: 
+Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB
+Window's Process Name: gnome-terminal-server
+Key Pressed: P_Add
+Ascii Value: 0
+KeyID: False
+ScanCode: 86
+MessageName: key down
+----------------------(.)-----------------------------------
+Window Handle: 
+Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB
+Window's Process Name: gnome-terminal-server
+Key Pressed: P_Delete
+Ascii Value: 0
+KeyID: False
+ScanCode: 91
+MessageName: key down
+----------------------PageUp-----------------------------------
+^[[5~Window Handle: 
+Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB
+Window's Process Name: gnome-terminal-server
+Key Pressed: Page_Up
+Ascii Value: 85
+KeyID: False
+ScanCode: 112
+MessageName: key down
+----------------------PageDown-----------------------------------
+^[[6~Window Handle: 
+Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB
+Window's Process Name: gnome-terminal-server
+Key Pressed: Next
+Ascii Value: 86
+KeyID: False
+ScanCode: 117
+MessageName: key down
+
+
