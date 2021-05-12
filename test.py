@@ -12,9 +12,9 @@ client.armDisarm(True)              # 解锁
 client.takeoffAsync().join()        # 起飞
 client.moveToZAsync(-3, 1).join()   # 第二阶段：上升到2米高度
 
-center = np.array([[0], [5]])    # 圆心设置
+center = np.array([[0], [3]])    # 圆心设置
 speed = 1                        # 速度设置
-radius = 5                       # 半径设置
+radius = 3                       # 半径设置
 clock_wise = True                # 顺时针或逆时针设置
 
 pos_reserve = np.array([[0.], [0.], [-3.]])
@@ -40,7 +40,7 @@ for i in range(2000):
          theta -= math.pi / 2
      v_dir_2 = np.array([[math.cos(theta)], [math.sin(theta)]])
      # 计算最终速度的方向向量
-     v_dir = 0.08 * vel_dir_1 + v_dir_2
+     v_dir = 0.12 * vel_dir_1 + v_dir_2
      # 计算最终速度指令
      v_cmd = speed * v_dir/np.linalg.norm(v_dir)
      # 速度控制

@@ -106,6 +106,34 @@ Ascii Value: 0
 KeyID: False
 ScanCode: 91
 MessageName: key down
+----------------------(/)-----------------------------------
+/Window Handle: 
+Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB/program
+Window's Process Name: gnome-terminal-server
+Key Pressed: P_Divide
+Ascii Value: 0
+KeyID: False
+ScanCode: 106
+MessageName: key down
+----------------------(*)-----------------------------------
+*Window Handle: 
+Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB/program
+Window's Process Name: gnome-terminal-server
+Key Pressed: P_Multiply
+Ascii Value: 0
+KeyID: False
+ScanCode: 63
+MessageName: key down
+----------------------(Enter)-----------------------------------
+Window Handle: 
+Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB/program
+Window's Process Name: gnome-terminal-server
+Key Pressed: P_Enter
+Ascii Value: 0
+KeyID: False
+ScanCode: 104
+MessageName: key down
+
 ----------------------PageUp-----------------------------------
 ^[[5~Window Handle: 
 Window Name: freddy@freddy-MS-7B84: ~/project/AirSimB
