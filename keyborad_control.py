@@ -10,6 +10,8 @@ import pyxhook  #监听键盘
 
 class FlightControl():
     def __init__(self):
+        self.path = "/home/freddy/Documents/AirSim"
+        self.folder = ""
         #开启键盘监听
         self.hookman = pyxhook.HookManager()
         self.hookman.KeyDown = self.kbevent
