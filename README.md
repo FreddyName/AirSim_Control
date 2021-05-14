@@ -1,2 +1,3 @@
 # AirSim_Control
 通过AirSim的相关API进行相关控制
+相关的记录参照note文件
